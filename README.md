@@ -23,3 +23,5 @@ Install dependencies (e.g., in a virtualenv) using pip
 To start the GUI, run
 
     python3 fairyfishgui.py
+
+Not maintained
